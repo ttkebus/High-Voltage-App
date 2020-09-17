@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211040263563",
+    "firebase_url": "https://yuksek-c7d60.firebaseio.com",
+    "project_id": "yuksek-c7d60",
+    "storage_bucket": "yuksek-c7d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211040263563:android:0b1df3aeb7c9a6c212638e",
+        "android_client_info": {
+          "package_name": "com.example.yuksek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211040263563-g7r6aifd7c04ones8fin0s535uhfckat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuksek",
+            "certificate_hash": "a9a929b3f3b4534bdb146dbe6d3481692f87417e"
+          }
+        },
+        {
+          "client_id": "211040263563-offg4mr99lkkqmeambfmn0k2maellhp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-azQy1Joi3Vf0iD2UkqR1F-X9teF2JOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211040263563-offg4mr99lkkqmeambfmn0k2maellhp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
